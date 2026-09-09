@@ -57,7 +57,7 @@ cat > "$ROOT/manifest.json" <<EOF
 {
   "id": "moai_telefe",
   "nombre": "Moai Telefe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minContrato": 1,
   "maxContrato": 1,
   "clase": "com.infomak.moai.telefe.TelefePlugin",
@@ -65,7 +65,7 @@ cat > "$ROOT/manifest.json" <<EOF
   "canales": [
     {
       "id": "canal_11",
-      "nombre": "Canal 11",
+      "nombre": "TELEFE",
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png",
       "categoria": "Aire",
       "pais": "Argentina"

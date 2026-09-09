@@ -1,15 +1,15 @@
 {
   "id": "moai_telefe",
   "nombre": "Moai Telefe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minContrato": 1,
   "maxContrato": 1,
   "clase": "com.infomak.moai.telefe.TelefePlugin",
-  "sha256": "ef5826b66042a2a03d37d5b2294637aa0bf0ce15f715bed198d36685c6bbf87b",
+  "sha256": "4f89fe595abd3e2f631c6d272a36b00134a0f1bc5e133890012efe5800ba8d92",
   "canales": [
     {
       "id": "canal_11",
-      "nombre": "Canal 11",
+      "nombre": "TELEFE",
       "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/telefe-ar.png",
       "categoria": "Aire",
       "pais": "Argentina"

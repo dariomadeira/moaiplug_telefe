@@ -60,8 +60,8 @@ Compila contra `com.infomak.moai.contract` (stubs Java en
 | Campo         | Valor                                                     |
 |---------------|-----------------------------------------------------------|
 | id            | `moai_telefe`                                             |
-| version       | `1.0.0` (coincide con el tag `v1.0.0`)                    |
+| version       | `1.0.1` (coincide con el tag `v1.0.1`)                    |
 | minContrato   | 1                                                         |
 | maxContrato   | 1                                                         |
-| canal         | `canal_11` → Canal 11 (Argentina)                         |
+| canal         | `canal_11` → TELEFE (Argentina)                           |
 | formato       | `hls`                                                     |

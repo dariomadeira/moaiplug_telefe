@@ -70,7 +70,7 @@ public final class TelefePlugin implements IPlugin {
         List<PluginChannel> list = new ArrayList<PluginChannel>();
         list.add(new PluginChannel(
             "canal_11",
-            "Canal 11",
+            "TELEFE",
             "https://raw.githubusercontent.com/tv-logo/tv-logos/"
                 + "refs/heads/main/countries/argentina/telefe-ar.png",
             "Aire",
@@ -90,7 +90,7 @@ public final class TelefePlugin implements IPlugin {
         return new PluginManifest(
             "moai_telefe",
             "Moai Telefe",
-            "1.0.0",
+            "1.0.1",
             1,
             1,
             CANALES,
