@@ -57,7 +57,7 @@ cat > "$ROOT/manifest.json" <<EOF
 {
   "id": "moai_telefe",
   "nombre": "Moai Telefe",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minContrato": 1,
   "maxContrato": 1,
   "clase": "com.infomak.moai.telefe.TelefePlugin",

@@ -41,8 +41,8 @@ public final class TelefePlugin implements IPlugin {
 
     private static final String DEFAULT_LAMBDA =
         "https://57j4mtvcjjf7siqnnvkixb5d3i0uvjei.lambda-url.us-east-1.on.aws/";
-    private static final String DEFAULT_STREAM_ID = "69e0fb650d9e3eb5340cdd5c";
-    private static final String VIVO_PAGE = "https://www.mitelefe.com/vivo";
+    private static final String DEFAULT_STREAM_ID = "6a024684fd4ca6a938f3a118";
+    private static final String VIVO_PAGE = "https://www.mitelefe.com/telefe-en-vivo";
     private static final String MDSTRM_BASE =
         "https://mdstrm.com/live-stream-playlist/";
     private static final String USER_AGENT =
@@ -90,7 +90,7 @@ public final class TelefePlugin implements IPlugin {
         return new PluginManifest(
             "moai_telefe",
             "Moai Telefe",
-            "1.0.1",
+            "1.0.2",
             1,
             1,
             CANALES,
